@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 ## Who Am I?
 My name is **Sampath Gonnuru**. I'm currently a Master's in Data Science from New Jersey Institute of Technology, Newark . I hail from a small town of Visakhapatnam, India. I started my coding journey in 2015 when I needed to build a website for my college's first of it's kind Fest. Later I iterated towards Android Application Development and worked for a startup. I was the only Android Development in the team which was challenging at times. Eventually, I took up the challenge and developed a fee payment application platform for parents and a monitoring system for school called FeEasy. It was during this development when I fell in love with all things AI and data. Since, the product also focused on building a prediction system which was to notify the bank if a particular student would be qualified for loan. Ever since then I live, love and breathe Data. 
 
@@ -38,4 +37,4 @@ Known on internet as **SampathGonnuru**
 
 ## Resources
 - Icons by [Icons8](https://icons8.com/)
--->
+
