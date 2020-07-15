@@ -13,7 +13,7 @@
   </samp>
 </p>
 
-![Sampath's github stats](https://github-readme-stats.vercel.app/api?username=gonnuru&show_icons=true)
+<p align="center">![Sampath's github stats](https://github-readme-stats.vercel.app/api?username=gonnuru&show_icons=true)</p>
 
 **:telescope: 2020 goal**<br><br>
 - Secure a top 100 position in a Kaggle Competition
