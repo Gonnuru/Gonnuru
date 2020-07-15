@@ -1,4 +1,4 @@
-![](https://visitor-badge.glitch.me/badge?page_id=Gonnuru.Gonnuru)
+![](https://visitor-badge.glitch.me/badge?page_id=gonnuru.gonnuru)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
@@ -19,4 +19,3 @@
 - Secure a top 100 position in a Kaggle Competition
 - Get a Job as a Machine Learning|Deep Learning Engineer | Jr.DataScientist
 - Learn to surf and skydive
-
