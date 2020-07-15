@@ -13,6 +13,8 @@
   </samp>
 </p>
 
+![Sampath's github stats](https://github-readme-stats.vercel.app/api?username=gonnuru&show_icons=true)
+
 **:telescope: 2020 goal**<br><br>
 - Secure a top 100 position in a Kaggle Competition
 - Get a Job as a Machine Learning|Deep Learning Engineer | Jr.DataScientist
