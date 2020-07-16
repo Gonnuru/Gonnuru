@@ -1,4 +1,9 @@
-![](https://visitor-badge.glitch.me/badge?page_id=gonnuru.gonnuru)
+<h1 align="center">Hello Devs, 👋 Bring your self back Online!</h1>
+
+Before you is a homosapien that has a knack for many things. _Believe you me_, I love building tools , writing and slapping my keyboard till something works. :collision:
+
+I adore wicked people. I'm specifically referring to folks that are wicked about their personal growth. :grin:
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
@@ -19,3 +24,6 @@
 - Secure a top 100 position in a Kaggle Competition
 - Get a Job as a Machine Learning|Deep Learning Engineer | Jr.DataScientist
 - Learn to surf and skydive
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=gonnuru.gonnuru)
