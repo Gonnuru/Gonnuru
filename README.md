@@ -1,15 +1,14 @@
-<h1 align="center">Hello Devs, 👋 Bring your self back Online!</h1>
-
-Before you is a homosapien that has a knack for many things. _Believe you me_, I love building tools , writing and slapping my keyboard till something works. :collision:
-
-I adore wicked people. I'm specifically referring to folks that are wicked about their personal growth. :grin:
+<h1 align="center">Hello there, 👋 Bring your self back Online!</h1>
 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
   <br><br>
   <samp>
-    :wave: Hi! I'm a grad student at NJIT majoring in DataScience
+    Before you is a homosapien that has a knack for many things. <br>
+    _Believe you me_, I love building tools, writing & slapping my keyboard till something works. :collision:<br>
+    I adore wicked people. I'm specifically referring to folks that are wicked about their personal growth. :grin: 
+    <br>I'm a grad student at NJIT majoring in DataScience
     <br>My current work focuses on devloping and deploying
       <br><em>machine learning and deep learning</em> models
     <br><br><br>
