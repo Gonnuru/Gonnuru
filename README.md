@@ -6,7 +6,7 @@
   <br><br>
   <samp>
     Before you is a homosapien that has a knack for many things. <br>
-    _Believe you me_, I love building tools, writing & slapping my keyboard till something works. :collision:<br>
+    I love building tools, writing & slapping my keyboard till something works. :collision:<br>
     I adore wicked people. I'm specifically referring to folks that are wicked about their personal growth. :grin: 
     <br>I'm a grad student at NJIT majoring in DataScience
     <br>My current work focuses on devloping and deploying
