@@ -22,7 +22,7 @@
 **:telescope: 2020 goal**<br><br>
 - Secure a top 100 position in a Kaggle Competition
 - Get a Job as a Machine Learning|Deep Learning Engineer | Jr.DataScientist
-- Learn to surf and skydive
+- Learn to surf, skydive and Bungee jumping
 
 
 
