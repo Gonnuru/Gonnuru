@@ -19,10 +19,7 @@
 
 <p align="center"><img src= "https://github-readme-stats.vercel.app/api?username=gonnuru&show_icons=true"></p>
 
-**:telescope: 2020 goal**<br><br>
-- Secure a top 100 position in a Kaggle Competition
-- Get a Job as a Machine Learning|Deep Learning Engineer | Jr.DataScientist
-- Learn to surf, skydive and Bungee jumping
+
 
 
 
