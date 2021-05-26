@@ -17,7 +17,11 @@
   </samp>
 </p>
 
-<p align="center"><img src= "https://github-readme-stats.vercel.app/api?username=gonnuru&show_icons=true"></p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gonnuru&theme=default)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gonnuru&theme=default)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gonnuru&theme=default)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gonnuru&theme=default)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gonnuru&theme=default)
 
 
 
